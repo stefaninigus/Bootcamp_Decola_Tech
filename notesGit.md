@@ -1,4 +1,4 @@
-cat# Anotações sobre uso de terminal, Git e GitHub em dispositivos android
+# Anotações sobre uso de terminal, Git e GitHub em dispositivos android
  - ## Terminal
 ####  -para utilizar o terminal em dispositivos androids é necessário a emular um ambiente linux, podendo ser feito via aplicativo Termux
 ####  -após baixar e instalar o Termux pela PlayStore basta iniciar o programa e, por rotina de checagem, atualizá-lo por completo com *apt update && apt upgrade*
@@ -24,4 +24,4 @@ cat# Anotações sobre uso de terminal, Git e GitHub em dispositivos android
  - ##### *git status*                    /relata a situação do diretório e stage em relação ao commit mais recente e dá dicas do que fazer a seguir
  - ##### *git remote add origin "URL"*   /conecta repositório local ao repositório no github
  - ##### *git commit -m <>*              /commita os arquivos com comentário
- - ##### *git push origin master*        /empurra o repositório ao github
+ - ##### *git push origin master*        /empurra o repositório ao githubhub
